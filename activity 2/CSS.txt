@@ -1,0 +1,25 @@
+/*************************************
+GENERAL
+**************************************/
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+.header {
+    padding: 120px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+
+.header h1 {
+    font-size: 60px;
+}
+   
+</style>
+
